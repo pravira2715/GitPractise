@@ -10,6 +10,7 @@ public class three_restAPITest {
 		System.out.println("postJira");
 		System.out.println("Changes done here after downloading project from github");
 		System.out.println("Changes done here after downloading project from github1");
+		System.out.println("Changes done by userB gitpractise");
 	}
 	
 	@Test
