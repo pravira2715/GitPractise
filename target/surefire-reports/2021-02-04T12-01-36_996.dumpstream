@@ -1,0 +1,4 @@
+# Created at 2021-02-04T12:01:38.092
+Boot Manifest-JAR contains absolute paths in classpath 'P:\udemy courses\AppiumProjects\Practise\mavenjava\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
