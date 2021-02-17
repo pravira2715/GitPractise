@@ -21,5 +21,10 @@ public class one_seleniumTest {
 	{
 		System.out.println("changes in develop branch in githubchangesfinalselenium in gitpractise");
 	}
+	@Test
+	public void githubchangesrestapi()
+	{
+		System.out.println("changes in develop branch in githubchangesrestapi in gitpractise");
+	}
 
 }
