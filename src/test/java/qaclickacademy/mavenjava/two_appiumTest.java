@@ -14,12 +14,12 @@ public class two_appiumTest {
 	public void iosApps()
 	{
 		System.out.println("iosApps");
-		System.out.println("changes in develop branch in iosApps in gitdemo");
 	}
+	
 	@Test
-	public void githubchanges()
+	public void githubchangesfinalappium()
 	{
-		System.out.println("changes in develop branch in githubchanges in gitdemo");
+		System.out.println("changes in develop branch in githubchangesfinalappium in gitpractise");
 	}
 
 }

@@ -8,8 +8,6 @@ public class one_seleniumTest {
 	public void browserAutomation()
 	{
 		System.out.println("browserAutomation");
-		System.out.println("2nd timechanges done in one_seleniumTest after downloading project from github");
-		System.out.println("2nd timechanges done in one_seleniumTest after downloading project from github1");
 	}
 	
 	@Test
@@ -19,9 +17,9 @@ public class one_seleniumTest {
 	}
 	
 	@Test
-	public void githubchanges2()
+	public void githubchangesfinalselenium()
 	{
-		System.out.println("changes in develop branch in githubchanges2 in gitdemo");
+		System.out.println("changes in develop branch in githubchangesfinalselenium in gitpractise");
 	}
 
 }
